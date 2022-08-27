@@ -25,9 +25,14 @@
 
 <h2 id="imagens">📱 Imagens do site</h2>
 
-![mockup - 2105 (4)](https://user-images.githubusercontent.com/98977257/169715748-729b6965-7e8b-48be-b60f-e9291bc91f46.png)
-
-![mockup - 2105 (5)](https://user-images.githubusercontent.com/98977257/169719179-063fc092-cf64-4310-a4bb-bdc810348e74.png)
+![login](https://user-images.githubusercontent.com/98969787/187050994-459f4af2-48cb-41f2-a784-99554011cdcd.png)
+![cadastro](https://user-images.githubusercontent.com/98969787/187050998-742344e9-fe8e-463d-b0c5-5ea238a506f8.png)
+![mobile](https://user-images.githubusercontent.com/98969787/187050995-4694b98a-d2fb-4b95-b99f-735999700ce7.png)
+![detalhes](https://user-images.githubusercontent.com/98969787/187050993-e3890d06-730f-4519-9aae-7126c62d1786.png)
+![cardapio](https://user-images.githubusercontent.com/98969787/187050999-450d3957-981c-4184-aec8-ee1e4f74675d.png)
+![carrinho](https://user-images.githubusercontent.com/98969787/187051000-a365a11f-e08f-4a36-955d-ed90496f47b6.png)
+![pedidoandamento](https://user-images.githubusercontent.com/98969787/187050996-bd633c06-2259-4ef1-9d5d-c8c0afd7dda7.png)
+![perfil](https://user-images.githubusercontent.com/98969787/187050997-de935295-9e67-4937-a882-c88156ddf94e.png)
 
 
 <h2 id="features">✔️ Features</h2>
